@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons29x29.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons29x29@2x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons29x29@3x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons40x40@2x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons40x40@3x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons60x60@2x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons60x60@3x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons29x29~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons29x29@2x~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons40x40~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons40x40@2x~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons76x76~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/AppIcons76x76@2x~ipad.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/LaunchImage.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/LaunchImage@2x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/LaunchImage-568h@2x.png</string>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.notices</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[iphone][][1x][portrait][full-screen][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>This launch image only applies to iOS 6.x and prior but the minimum deployment is 7.0 or later.</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>This launch image only applies to iOS 6.x and prior but the minimum deployment is 7.0 or later.</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[iphone][retina4][2x][portrait][full-screen][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>This launch image only applies to iOS 6.x and prior but the minimum deployment is 7.0 or later.</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+	</array>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>An iPhone Retina (4-inch) launch image for iOS 7.0 and later is required.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[ipad][][2x][portrait][full-screen][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>LaunchImage.launchimage/Default-Portrait@2x.png is 1536x2008 but should be 1536x2048.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[ipad][][1x][portrait][full-screen][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sarath/Documents/CircleGraph/iOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>LaunchImage.launchimage/Default-Portrait.png is 768x1004 but should be 768x1024.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>
